@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://gokul2406.github.io/blog/', // Site domain
+    website: 'https://gokul2406.github.io/Space/', // Site domain
     title: "Gokul's Space", // Site title
     author: 'Gokul', // Author name
     description: 'A space to host my blogs and similar content', // Site description
